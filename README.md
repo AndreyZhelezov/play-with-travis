@@ -1,2 +1,2 @@
 ### Play with Travis CI
-##By Zhelezov Andrey
+##By Andrey Zhelezov
